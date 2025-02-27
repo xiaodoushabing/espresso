@@ -5,8 +5,12 @@
 *.rap
 *.ps
 
+# Output files
+*.mps
+
 # Dependencies
 /node_modules
+out/
 
 # Production
 /build
