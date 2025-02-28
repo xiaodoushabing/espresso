@@ -1,10 +1,10 @@
 &CONTROL
   calculation = 'scf'
-  etot_conv_thr =   2.0000000000d-05
+  etot_conv_thr =   4.0000000000d-05
   forc_conv_thr =   1.0000000000d-04
-  outdir = './fept/out/'
+  outdir = './fenipt/out/'
   prefix = 'aiida'
-  pseudo_dir = './fept/pseudo/'
+  pseudo_dir = './fenipt/pseudo/'
   tprnfor = .true.
   tstress = .true.
   verbosity = 'high'
@@ -14,29 +14,33 @@
   ecutrho =   1.0800000000d+03
   ecutwfc =   9.0000000000d+01
   ibrav = 0
-  nat = 2
+  nat = 4
   nosym = .false.
   nspin = 2
-  ntyp = 2
+  ntyp = 3
   occupations = 'smearing'
   smearing = 'cold'
   starting_magnetization(1) =   3.1250000000d-01
-  starting_magnetization(2) =   3.1250000000d-01
+  starting_magnetization(2) =   2.7777777778d-01
+  starting_magnetization(3) =   3.1250000000d-01
 /
 &ELECTRONS
-  conv_thr =   4.0000000000d-10
+  conv_thr =   8.0000000000d-10
   electron_maxstep = 80
   mixing_beta =   4.0000000000d-01
 /
 ATOMIC_SPECIES
 Fe     55.845 Fe.pbesol-spn-kjpaw_psl.0.2.1.UPF
+Ni     58.6934 ni_pbesol_v1.4.uspp.F.UPF
 Pt     195.084 pt_pbesol_v1.4.uspp.F.UPF
 ATOMIC_POSITIONS crystal
 Fe           0.0000000000       0.0000000000       0.0000000000
-Pt           0.5000000000       0.5000000000       0.5000000000
+Ni           0.5000000000       0.5000000000       0.0000000000
+Pt           0.0000000000       0.5000000000       0.5000000000
+Pt           0.5000000000       0.0000000000       0.5000000000
 K_POINTS automatic
-17 17 17 0 0 0
+17 17 18 0 0 0
 CELL_PARAMETERS angstrom
-      3.8500000000       0.0000000000       0.0000000000
-      0.0000000000       3.8500000000       0.0000000000
-      0.0000000000       0.0000000000       3.7200000000
+      3.8600000000       0.0000000000       0.0000000000
+      0.0000000000       3.8600000000       0.0000000000
+      0.0000000000       0.0000000000       3.6400000000

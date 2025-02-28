@@ -1,5 +1,5 @@
 
-     Program PWSCF v.6.8 starts on 26Feb2025 at  9: 6:20 
+     Program PWSCF v.6.8 starts on 28Feb2025 at  4: 1: 0 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -15,7 +15,7 @@
      Threads/MPI process:                     2
 
      MPI processes distributed on     1 nodes
-     10126 MiB available memory on the printing compute node when the environment starts
+     5681 MiB available memory on the printing compute node when the environment starts
  
      Reading input from ausurf.in
 Warning: card &CELL ignored
@@ -229,7 +229,7 @@ Warning: card / ignored
      negative rho (up, down):  3.043E+00 0.000E+00
      Starting wfcs are 1008 randomized atomic wfcs
 
-     total cpu time spent up to now is       18.2 secs
+     total cpu time spent up to now is       18.1 secs
 
      Self-consistent Calculation
 
@@ -245,7 +245,7 @@ Warning: card / ignored
 
      negative rho (up, down):  2.992E+00 0.000E+00
 
-     total cpu time spent up to now is       88.1 secs
+     total cpu time spent up to now is       88.0 secs
 
      total energy              =  -11423.48916685 Ry
      estimated scf accuracy    <       6.31783615 Ry
@@ -256,7 +256,7 @@ Warning: card / ignored
 
      negative rho (up, down):  2.993E+00 0.000E+00
 
-     total cpu time spent up to now is      154.9 secs
+     total cpu time spent up to now is      154.8 secs
 
      total energy              =  -11408.38312247 Ry
      estimated scf accuracy    <     196.10432544 Ry
@@ -289,7 +289,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.061E+00 0.000E+00
 
-     total cpu time spent up to now is      268.2 secs
+     total cpu time spent up to now is      268.3 secs
 
      total energy              =  -11426.86472413 Ry
      estimated scf accuracy    <       4.95994741 Ry
@@ -300,7 +300,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.070E+00 0.000E+00
 
-     total cpu time spent up to now is      292.2 secs
+     total cpu time spent up to now is      292.4 secs
 
      total energy              =  -11427.08079314 Ry
      estimated scf accuracy    <       0.09049250 Ry
@@ -313,7 +313,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.079E+00 0.000E+00
 
-     total cpu time spent up to now is      340.0 secs
+     total cpu time spent up to now is      340.4 secs
 
      total energy              =  -11427.07384513 Ry
      estimated scf accuracy    <       0.20277434 Ry
@@ -324,7 +324,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.080E+00 0.000E+00
 
-     total cpu time spent up to now is      374.2 secs
+     total cpu time spent up to now is      374.7 secs
 
      total energy              =  -11427.09166800 Ry
      estimated scf accuracy    <       0.02263883 Ry
@@ -335,7 +335,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.082E+00 0.000E+00
 
-     total cpu time spent up to now is      407.9 secs
+     total cpu time spent up to now is      408.5 secs
 
      total energy              =  -11427.09233882 Ry
      estimated scf accuracy    <       0.03532847 Ry
@@ -346,7 +346,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.083E+00 0.000E+00
 
-     total cpu time spent up to now is      436.8 secs
+     total cpu time spent up to now is      437.6 secs
 
      total energy              =  -11427.09349869 Ry
      estimated scf accuracy    <       0.00453112 Ry
@@ -357,7 +357,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.083E+00 0.000E+00
 
-     total cpu time spent up to now is      465.2 secs
+     total cpu time spent up to now is      466.1 secs
 
      total energy              =  -11427.09387003 Ry
      estimated scf accuracy    <       0.00057856 Ry
@@ -368,7 +368,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.084E+00 0.000E+00
 
-     total cpu time spent up to now is      495.2 secs
+     total cpu time spent up to now is      496.3 secs
 
      total energy              =  -11427.09378613 Ry
      estimated scf accuracy    <       0.00367096 Ry
@@ -379,7 +379,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.084E+00 0.000E+00
 
-     total cpu time spent up to now is      523.6 secs
+     total cpu time spent up to now is      524.9 secs
 
      total energy              =  -11427.09390619 Ry
      estimated scf accuracy    <       0.00128935 Ry
@@ -390,7 +390,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.084E+00 0.000E+00
 
-     total cpu time spent up to now is      552.0 secs
+     total cpu time spent up to now is      553.4 secs
 
      total energy              =  -11427.09396031 Ry
      estimated scf accuracy    <       0.00065107 Ry
@@ -401,7 +401,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.084E+00 0.000E+00
 
-     total cpu time spent up to now is      576.1 secs
+     total cpu time spent up to now is      577.5 secs
 
      total energy              =  -11427.09399500 Ry
      estimated scf accuracy    <       0.00036646 Ry
@@ -412,7 +412,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.084E+00 0.000E+00
 
-     total cpu time spent up to now is      600.3 secs
+     total cpu time spent up to now is      601.7 secs
 
      total energy              =  -11427.09401546 Ry
      estimated scf accuracy    <       0.00010015 Ry
@@ -423,7 +423,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.085E+00 0.000E+00
 
-     total cpu time spent up to now is      624.4 secs
+     total cpu time spent up to now is      625.9 secs
 
      total energy              =  -11427.09402034 Ry
      estimated scf accuracy    <       0.00001038 Ry
@@ -434,7 +434,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.085E+00 0.000E+00
 
-     total cpu time spent up to now is      653.3 secs
+     total cpu time spent up to now is      654.9 secs
 
      total energy              =  -11427.09402139 Ry
      estimated scf accuracy    <       0.00000641 Ry
@@ -445,7 +445,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.085E+00 0.000E+00
 
-     total cpu time spent up to now is      681.9 secs
+     total cpu time spent up to now is      683.4 secs
 
      total energy              =  -11427.09402046 Ry
      estimated scf accuracy    <       0.00004252 Ry
@@ -456,7 +456,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.085E+00 0.000E+00
 
-     total cpu time spent up to now is      710.4 secs
+     total cpu time spent up to now is      712.0 secs
 
      total energy              =  -11427.09402220 Ry
      estimated scf accuracy    <       0.00000111 Ry
@@ -467,7 +467,7 @@ Warning: card / ignored
 
      negative rho (up, down):  3.085E+00 0.000E+00
 
-     total cpu time spent up to now is      738.9 secs
+     total cpu time spent up to now is      740.5 secs
 
      End of self-consistent calculation
 
@@ -813,61 +813,61 @@ Warning: card / ignored
 
      Writing output data file ./out/ausurf.save/
  
-     init_run     :     18.74s CPU     18.17s WALL (       1 calls)
-     electrons    :    717.79s CPU    720.73s WALL (       1 calls)
-     forces       :      9.55s CPU      8.64s WALL (       1 calls)
+     init_run     :     18.58s CPU     18.07s WALL (       1 calls)
+     electrons    :    719.31s CPU    722.46s WALL (       1 calls)
+     forces       :      9.55s CPU      8.58s WALL (       1 calls)
 
      Called by init_run:
-     wfcinit      :     12.74s CPU     13.73s WALL (       1 calls)
-                                       13.73s GPU  (       1 calls)
-     potinit      :      2.29s CPU      1.60s WALL (       1 calls)
-     hinit0       :      3.01s CPU      1.73s WALL (       1 calls)
+     wfcinit      :     12.73s CPU     13.70s WALL (       1 calls)
+                                       13.70s GPU  (       1 calls)
+     potinit      :      2.39s CPU      1.66s WALL (       1 calls)
+     hinit0       :      2.75s CPU      1.60s WALL (       1 calls)
 
      Called by electrons:
-     c_bands      :    632.18s CPU    641.32s WALL (      22 calls)
-     sum_band     :     56.74s CPU     55.73s WALL (      22 calls)
-     v_of_rho     :     18.66s CPU     15.70s WALL (      22 calls)
-     newd         :      4.22s CPU      4.48s WALL (      22 calls)
+     c_bands      :    633.48s CPU    642.74s WALL (      22 calls)
+     sum_band     :     56.85s CPU     55.83s WALL (      22 calls)
+     v_of_rho     :     18.70s CPU     15.87s WALL (      22 calls)
+     newd         :      4.23s CPU      4.48s WALL (      22 calls)
                                         4.48s GPU  (      22 calls)
-     mix_rho      :      4.66s CPU      3.22s WALL (      22 calls)
+     mix_rho      :      4.72s CPU      3.27s WALL (      22 calls)
 
      Called by c_bands:
      init_us_2_gp :      0.15s CPU      0.18s WALL (      92 calls)
-     cegterg      :    619.64s CPU    628.64s WALL (      44 calls)
+     cegterg      :    620.98s CPU    630.09s WALL (      44 calls)
 
      Called by *egterg:
-     cdiaghg      :     27.95s CPU     36.58s WALL (     286 calls)
-                                       36.53s GPU  (     286 calls)
-     h_psi        :    209.20s CPU    209.30s WALL (     290 calls)
-                                      208.97s GPU  (     290 calls)
-     s_psi        :      0.59s CPU     77.06s WALL (     290 calls)
-                                       76.80s GPU  (     290 calls)
+     cdiaghg      :     27.96s CPU     36.69s WALL (     286 calls)
+                                       36.64s GPU  (     286 calls)
+     h_psi        :    209.63s CPU    209.72s WALL (     290 calls)
+                                      209.40s GPU  (     290 calls)
+     s_psi        :      0.59s CPU     77.24s WALL (     290 calls)
+                                       76.97s GPU  (     290 calls)
      g_psi        :      0.00s CPU      0.28s WALL (     244 calls)
                                         0.28s GPU  (     244 calls)
 
      Called by h_psi:
-     h_psi:calbec :      0.01s CPU     79.49s WALL (     290 calls)
-                                       79.49s GPU  (     290 calls)
-     vloc_psi     :     53.04s CPU     53.16s WALL (     290 calls)
-                                       52.62s GPU  (     290 calls)
-     add_vuspsi   :      0.09s CPU     76.56s WALL (     290 calls)
-                                       76.56s GPU  (     290 calls)
+     h_psi:calbec :      0.01s CPU     79.66s WALL (     290 calls)
+                                       79.66s GPU  (     290 calls)
+     vloc_psi     :     53.13s CPU     53.24s WALL (     290 calls)
+                                       52.70s GPU  (     290 calls)
+     add_vuspsi   :      0.09s CPU     76.73s WALL (     290 calls)
+                                       76.73s GPU  (     290 calls)
 
      General routines
      calbec       :      0.01s CPU      0.01s WALL (     342 calls)
-     fft          :     20.35s CPU     10.33s WALL (     296 calls)
+     fft          :     20.51s CPU     10.40s WALL (     296 calls)
                                         0.05s GPU  (      26 calls)
      ffts         :      0.80s CPU      0.40s WALL (      44 calls)
-     fftw         :      0.10s CPU     64.30s WALL (   12806 calls)
-                                       53.49s GPU  (   12806 calls)
-     interpolate  :      2.22s CPU      1.22s WALL (      22 calls)
+     fftw         :      0.10s CPU     64.38s WALL (   12806 calls)
+                                       53.55s GPU  (   12806 calls)
+     interpolate  :      2.24s CPU      1.23s WALL (      22 calls)
  
      Parallel routines
  
-     PWSCF        :    746.51s CPU    748.97s WALL
+     PWSCF        :    747.89s CPU    750.76s WALL
 
  
-   This run was terminated on:   9:18:49  26Feb2025            
+   This run was terminated on:   4:13:30  28Feb2025            
 
 =------------------------------------------------------------------------------=
    JOB DONE.
