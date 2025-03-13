@@ -2,9 +2,9 @@
   calculation = 'scf'
   etot_conv_thr =   4.0000000000d-05
   forc_conv_thr =   1.0000000000d-04
-  outdir = './fenipt/out/'
+  outdir = './fenipt2/out/'
   prefix = 'aiida'
-  pseudo_dir = './fenipt/pseudo/'
+  pseudo_dir = './fenipt2/pseudo/'
   tprnfor = .true.
   tstress = .true.
   verbosity = 'high'

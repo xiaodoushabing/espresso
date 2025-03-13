@@ -1,0 +1,6 @@
+4
+Lattice="3.94 0.0 0.0 0.0 3.94 0.0 0.0 0.0 3.94" Properties=species:S:1:pos:R:3:spacegroup_kinds:I:1 spacegroup="F m -3 m" unit_cell=conventional pbc="T T T"
+Pt       0.00000000       0.00000000       0.00000000        0
+Pt       0.00000000       1.97000000       1.97000000        0
+Pt       1.97000000       0.00000000       1.97000000        0
+Pt       1.97000000       1.97000000       0.00000000        0
